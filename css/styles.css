@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color:white;
+  margin-left: 100px;
+}
+
+hr {
+  width: 80%;
+  height: 2px;
+  color: white;
+}
+
+img {
+  float: left;
+  width:50%;
+  height:50%
+ 
+}
+
