@@ -12,8 +12,6 @@ The Portfolio describes the projects that the author has participated in. The co
 
 ## project setup instructions
 
-- Go the the remote Github repository, [click here](https://github.com/Zelawlaw/week1-IP-Portfolio-Landing-Page)
-
 - Clone the repository by running the following command
   > ```sh
   >    git clone https://github.com/Zelawlaw/week1-IP-Portfolio-Landing-Page.git
