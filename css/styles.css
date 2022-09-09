@@ -50,3 +50,10 @@ img {
  .cookie {
   color:yellow;
  }
+.regular-website{
+  background-color: white;
+  color:black;
+  width:90%;
+  min-width: 20%;
+  height:300px;
+ }
