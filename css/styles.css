@@ -33,6 +33,17 @@ img {
 
  .flex-container .contact-info {
   margin-left:100px;
-  flex-grow: .5;
-  text-align: right;
+  flex-grow: .9;
+
+ }
+ .flex-container ul {
+  direction :rtl;
+ }
+ .flex-container li {
+  margin:20px;
+  font-size:larger;
+  list-style: none;
+ }
+ a{
+  color:rgb(97, 239, 97);
  }
