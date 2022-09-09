@@ -19,11 +19,15 @@ The Portfolio describes the projects that the author has participated in. The co
   >    git clone https://github.com/Zelawlaw/week1-IP-Portfolio-Landing-Page.git
   > ```
 - Navigate into the cloned directory week1-IP-Portfolio-Landing-Page
+  > ```sh
   > cd Week1-IP-PortFolio_Landing_Page/
+  > ```
+- view the index.html with your favourite browser
 
-- view the index.html with your favourite browser  
 ## Link to live site on GitHub Pages
+
 To navigate to the live site on GitHub Pages, [click here](https://zelawlaw.github.io/week1-IP-Portfolio-Landing-Page.)
 
 ## License information
+
 [MIT License](https://github.com/nishanths/license/blob/master/LICENSE)
