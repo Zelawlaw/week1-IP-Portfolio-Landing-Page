@@ -64,3 +64,15 @@ a {
 .smilie-size {
   font-size: 30px;
 }
+.aboutMe-section ul ,.projects-section ol{
+  display: block;
+  font-size: 1em;
+  margin-top: 1.33em;
+  margin-bottom: 1.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+}
+.aboutMe-section li{
+  margin: 40px;
+}
