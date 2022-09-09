@@ -1,8 +1,8 @@
 body {
   background-color: black;
   color:white;
-  margin-left: 10%;
-  margin-right:10%;
+  margin-left: 15%;
+  margin-right:15%;
 }
 
 hr {
@@ -21,7 +21,7 @@ img {
 }
 
 .title {
-  align-self: center;
+ text-align: center;
 }
 .section-1 {
   margin-bottom:100px;
@@ -33,5 +33,6 @@ img {
 
  .flex-container .contact-info {
   margin-left:100px;
-
+  flex-grow: .5;
+  text-align: right;
  }
