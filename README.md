@@ -24,7 +24,7 @@ The Portfolio describes the projects that the author has participated in. The co
 
 ## Link to live site on GitHub Pages
 
-To navigate to the live site on GitHub Pages, [click here](https://zelawlaw.github.io/week1-IP-Portfolio-Landing-Page.)
+To navigate to the live site on GitHub Pages, [click here](https://zelawlaw.github.io/week1-IP-Portfolio-Landing-Page/)
 
 ## License information
 
