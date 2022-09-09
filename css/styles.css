@@ -64,7 +64,8 @@ a {
 .smilie-size {
   font-size: 30px;
 }
-.aboutMe-section ul ,.projects-section ol{
+.aboutMe-section ul,
+.projects-section ol {
   display: block;
   font-size: 1em;
   margin-top: 1.33em;
@@ -73,6 +74,6 @@ a {
   margin-right: 0;
   font-weight: bold;
 }
-.aboutMe-section li{
+.aboutMe-section li {
   margin: 40px;
 }
